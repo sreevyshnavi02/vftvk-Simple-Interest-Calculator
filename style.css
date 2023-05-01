@@ -1,4 +1,31 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+  background-color: black;
+  font-family: arial;
+  color: white;
+}
 
+h1 {
+  width: max-content;
+  margin: 0 auto 1rem auto;
+  color: grey;
+  font-family: verdena;
+}
 
+.maindiv {
+  background-color: white;
+  color: black;
+  width: 80%;
+  text-align: justify;
+  padding: 20px;
+  border-radius: 25px;
+  margin: auto;
+}
+
+.main_fields {
+  margin: 0 auto;
+  width: max-content;
+}
+
+.numbers {
+  background-color: yellow;
+}
